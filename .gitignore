@@ -1,1 +1,19 @@
+# پوشه‌ی آزمایشی
 sandbox/
+
+# فایل‌های موقت
+*.tmp
+*.log
+*.swp
+*~
+
+# فایل‌های محرمانه
+.env
+secrets/
+*.key
+*.pem
+credentials.*
+
+# فایل‌های سیستمی
+.DS_Store
+Thumbs.dbsandbox/
